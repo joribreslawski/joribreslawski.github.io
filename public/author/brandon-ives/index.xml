@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon Ives | Jori Breslawski</title>
+    <link>/author/brandon-ives/</link>
+      <atom:link href="/author/brandon-ives/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brandon Ives</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Brandon Ives</title>
+      <link>/author/brandon-ives/</link>
+    </image>
+    
+    <item>
+      <title>Killing for God: Factional Violence on the Transnational Stage</title>
+      <link>/publication/killingforgod/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/killingforgod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
