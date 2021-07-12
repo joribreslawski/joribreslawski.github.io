@@ -40,7 +40,5 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doctoral fellow at the Watson Institute for International and Public Affairs at Brown University. I received my PhD from the University of Maryland. 
-
-My main areas of interest revolve around political violence, rebel governance, and civilian agency in war. My work has been published in the *Journal of Conflict Resolution*, *International Interactions*, *Terrorism and Political Violence*, and the *Journal of Global Security Studies*, and has been supported by the Smith Richardson Foundation and the Global Religion Research Initiative, among others. 
+I am a Lecturer (Assistant Professor) at Tel Aviv University's School of Political Science, Government, and International Affairs. I received my PhD from the University of Maryland. My main areas of interest revolve around rebel governance and the delivery of aid in violent contexts, but my work extends to other topics that span the causes and consequences of political violence. 
 
